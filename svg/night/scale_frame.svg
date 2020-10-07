@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="96" height="142" viewBox="0 0 96.000008 142" id="svg2" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0,-910.3623)" id="layer1">
+    <path id="path5897" d="M 41.984 960.362 L 54.017 960.362 L 50.006 1046.208 C 49.999 1050.893 45.988 1050.893 45.995 1046.208 L 41.984 960.362 Z" style="fill-opacity: 0.101961; stroke: none; stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; fill: rgb(255, 255, 255);"/>
+    <path style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:10.00000095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0.803078,938.55164 a 54.498314,54.498314 0 0 1 47.196926,-27.24916 l -10e-7,54.49832 z" id="path5905"/>
+    <path style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:10.00000095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 48.000004,911.30248 a 54.498314,54.498314 0 0 1 38.536124,15.96219 L 48.000003,965.8008 Z" id="path5907"/>
+    <path style="fill:#55d400;fill-opacity:1;stroke:none;stroke-width:10.00000095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 86.536128,927.26467 a 54.498314,54.498314 0 0 1 8.6608,11.28697 L 48.000003,965.8008 Z" id="path5909"/>
+  </g>
+</svg>
